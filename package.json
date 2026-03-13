@@ -1,0 +1,8 @@
+{
+  "name": "cosmictantra-v36",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}

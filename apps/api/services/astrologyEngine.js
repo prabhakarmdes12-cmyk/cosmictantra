@@ -1,0 +1,1 @@
+module.exports = { calc:()=>({sun:120,moon:210}) }

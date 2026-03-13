@@ -1,0 +1,1 @@
+module.exports = { createOrder:(amt)=>({amount:amt}) }

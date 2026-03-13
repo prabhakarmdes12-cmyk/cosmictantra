@@ -1,0 +1,1 @@
+module.exports = class Consultant { constructor(data){ Object.assign(this,data) } }

@@ -1,0 +1,1 @@
+export default function component7(){ return null }

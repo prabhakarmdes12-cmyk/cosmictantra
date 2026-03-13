@@ -1,0 +1,1 @@
+export default function component32(){ return null }

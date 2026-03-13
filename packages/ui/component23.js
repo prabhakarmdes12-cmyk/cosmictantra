@@ -1,0 +1,1 @@
+export default function component23(){ return null }

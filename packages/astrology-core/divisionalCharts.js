@@ -1,0 +1,1 @@
+module.exports={navamsa:(l)=>l%12}

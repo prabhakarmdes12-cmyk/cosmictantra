@@ -1,0 +1,1 @@
+module.exports = class BirthChart { constructor(data){ Object.assign(this,data) } }
